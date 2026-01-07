@@ -24,7 +24,8 @@ Enter marks: 85
 Student added successfully!
 
 Enter your choice: 2
-Roll No: 101 | Name: Rahul | Marks: 85
+Student Records:
+Roll No: 101 , Name: Rahul , Marks: 85
 
 ## Technologies Used
 - C++
