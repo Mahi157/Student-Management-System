@@ -10,6 +10,22 @@ This project was created to apply core Data Structures and Algorithms concepts i
 - Search for a student by roll number using linear search
 - Menu-driven interface for easy navigation
 
+## Sample Output
+ 1. Add Student
+ 2. Display Students
+ 3. Search Student
+ 4. Exit
+
+Enter your choice: 1
+Enter roll number: 101
+Enter name: Rahul
+Enter marks: 85
+
+Student added successfully!
+
+Enter your choice: 2
+Roll No: 101 | Name: Rahul | Marks: 85
+
 ## Technologies Used
 - C++
 
